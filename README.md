@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Javascript & Backend Technologies.<br>I’m currently learning AI<br>I'm always learning Clean Code, SOLID and Patterns, please, let's have a good code, please.<br>
+I'm currently working on Javascript & Backend Technologies.<br>I’m currently learning AI.<br>I'm always learning Clean Code, SOLID and Patterns, please, let's have a good code, please.<br>
 
 
 
