@@ -2,9 +2,8 @@
 
 ###
 
-
+<img align="center" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"/>
 <div align="center">
-  <img align="center" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzkanat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="130" alt="languages graph"/>
 </div>
 
