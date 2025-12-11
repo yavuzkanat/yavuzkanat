@@ -1,10 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ahmet and I'm an Information Systems Engineer</h2>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzkanat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="130" alt="languages graph"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yavuzkanat&theme=dark)](https://git.io/streak-stats)
 
 ###
 <br>
