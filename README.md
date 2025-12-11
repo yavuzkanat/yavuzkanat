@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ahmet and I'm an Information Systems Engineer</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yavuzkanat&theme=dark)](https://git.io/streak-stats)
+
 
 ###
 <br>
