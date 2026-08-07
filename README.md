@@ -1,4 +1,4 @@
-# Hi, I'm Ahmet Yavuz Kanat 👋
+# Hi, I'm Ahmet Yavuzkanat 👋
 
 ### AI Developer | ML & Deep Learning 🤖
 
