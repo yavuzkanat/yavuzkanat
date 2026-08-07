@@ -1,3 +1,15 @@
-<h2 align="left">My name is Ahmet and I'm an Information Systems Engineer</h2>
+Hi, I’m Ahmet Yavuz Kanat 👋
 
-![Alt Text](https://tenor.com/view/cat-computer-typing-fast-gif-5368357)
+AI Developer | ML & Deep Learning 🤖
+
+	
+🎓 Education	Information Systems Engineering
+🤖 Focus	AI · Machine Learning · Deep Learning
+🐍 Main Language	Python
+💻 Backend	Node.js · TypeScript · NestJS
+🛠️ Tools	Git · GitHub · Kaggle
+📚 Currently Learning	Deep Learning · AI Engineering
+
+🔗 Links
+
+Building, learning, and improving in AI. 🚀
