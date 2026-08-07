@@ -1,6 +1,6 @@
-# Hi, I'm Ahmet Yavuzkanat 👋
+# Hi, I'm Ahmet Yavuzkanat 
 
-### AI Developer | ML & Deep Learning 🤖
+### AI Developer | ML & Deep Learning 
 
 | | |
 |---|---|
