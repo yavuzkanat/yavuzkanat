@@ -7,7 +7,7 @@
 | 🎓 **Education** | Information Systems Engineering |
 | 🤖 **Focus** | AI · Machine Learning · Deep Learning |
 | 🐍 **Main Language** | Python |
-| 💻 **Backend** | Node.js · TypeScript · NestJS |
+| 💻 **Backend** | Node.js · Django |
 | 🛠️ **Tools** | Git · GitHub · Kaggle |
 | 📚 **Currently Learning** | Deep Learning · AI Engineering |
 
