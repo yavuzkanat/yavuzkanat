@@ -11,6 +11,8 @@
 | 🛠️ **Tools** | Git · GitHub · Kaggle |
 | 📚 **Currently Learning** | Deep Learning · AI Engineering |
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=yavuzkanat)](https://github.com/stats-organization/github-stats-extended)
+
 ### 🔗 Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-yavuzkanat-black?style=flat&logo=github)](https://github.com/yavuzkanat)
